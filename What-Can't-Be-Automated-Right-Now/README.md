@@ -11,13 +11,15 @@
 
 4. Daily images cannot be automated yet
 
+5. Project Wikis cannot be automated yet
+
 * List incomplete.
 
 ***
 
 ## File info
 
-**Revision date:** `Sunday, April 4th 2021 at 6:00:04 pm`
+**Revision date:** `Wednesday, April 7th 2021 at 9:20:12 pm`
 
 ***
 
